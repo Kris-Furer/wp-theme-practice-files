@@ -1,0 +1,52 @@
+/*
+
+Theme Name: Tim's Theme
+
+Theme URI: http://yourwebsite.com/theme
+
+Author: Tim
+
+Author URI: http://yourwebsite.com/
+
+Description: This is my first custom theme!
+
+Version: 1.0.0
+
+License: GNU General Public License v2 or later
+
+Tags: minimal, cool
+
+*/
+
+body {
+}
+.card-body {
+  background-color:#FCFFA6;
+}
+
+#pastel-nav {
+  background-color:#CAB8FF!important;
+}
+
+#menu-menu-1 li a {
+  margin-right:10px;
+  color: black;
+  border-radius:5px;
+  border:1px solid black;
+  padding:3px 5px;
+  text-decoration: none;
+}
+#menu-menu-1 li a:hover{
+  background:black;
+  color:#CAB8FF;
+}
+
+.card-img-top {
+  width:100%;
+  height: 15vh;
+  object-fit: cover;
+}
+
+#logo {
+  width:200px;
+}
